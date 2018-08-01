@@ -1,5 +1,5 @@
 // YOUR TASK: Add more pictures!
-var pictures = ['./imgs/dog.jpg'];
+var pictures = ['./imgs/dog.jpg','./imgs/a.jpeg','./imgs/b.jpeg',"./imgs/c.jpeg","./imgs/d.jpeg","./imgs/e.jpeg"];
 var currentIndex = 0;
 
 function showNextPicture() {
